@@ -1,0 +1,9 @@
+# Wanwisa Resume Portfolio
+
+## วิธีใช้งาน
+1. เปิดโฟลเดอร์นี้ด้วย VS Code
+2. คลิกขวาที่ index.html แล้วเลือก "Open with Live Server"
+3. แก้ไขเนื้อหาได้ตามต้องการ
+
+หากยังไม่ได้ติดตั้ง Live Server:
+- เปิด Extensions > ค้นหา 'Live Server' > ติดตั้ง
